@@ -5,3 +5,6 @@ def g():
 
 def h():
   print(555)
+
+def test():
+  print(123)
